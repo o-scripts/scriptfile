@@ -8,6 +8,7 @@ ln -s ${MSHELL}/sh/daliy.report.sh ${MSHELL}/run/daliy.push.report
 ln -s ${MSHELL}/sh/daliy.report.daemon.sh ${MSHELL}/run/daliy.push.daemon
 
 # development kit tools
+ln -s ${MSHELL}/sh/eclipse.adt.sh ${MSHELL}/run/eclipse.adt
 ln -s ${MSHELL}/sh/eclipse.php.sh ${MSHELL}/run/eclipse.php
 ln -s ${MSHELL}/sh/eclipse.c.sh ${MSHELL}/run/eclipse.c
 
@@ -38,3 +39,6 @@ ln -s ${MSHELL}/bin/QIpmsg ${MSHELL}/run/ipmsg
 ln -s ${MSHELL}/sh/menu.sh ${MSHELL}/run/menu
 
 ln -s ${MSHELL}/sh/goagent.sh ${MSHELL}/run/goagent
+
+### sdk update list
+ln -s ${MSHELL}/sh/sdk.list.sh ${MSHELL}/run/sdk.list
