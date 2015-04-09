@@ -1,6 +1,14 @@
 #!/bin/bash
 #read -p "Connect shareusr to local:" ch
-IP=`ifconfig eth0  | grep -i 'inet ad' | awk '{print $2}' | cut -d':' -f2`
+arch=`uname`
+case ${arch} in
+	'Darwin')
+		IP=`ifconfig en1 | grep 'inet '| awk '{print $2}'`
+		;;
+	'Linux')
+		IP=`ifconfig eth0  | grep -i 'inet ad' | awk '{print $2}' | cut -d':' -f2`
+		;;
+esac
 echo IP:${IP}
 case $IP in
 	${BUILD_SERVER})

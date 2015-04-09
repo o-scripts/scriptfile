@@ -27,7 +27,7 @@
 	url = git@code.csdn.net:zgd1348833/docs.git
 [submodule "config"]
 	path = config
-	url = git@192.168.1.148:config.git
+	url = git@192.168.8.101:config.git
 [submodule "tool-kit/host.def"]
 	path = tool-kit/host.def
 	url = git@github.com:GdZ/google-hosts.git
@@ -45,7 +45,7 @@
 	url = https://github.com/iiordanov/remote-desktop-clients.git
 [submodule "tool-kit/repo"]
 	path = tool-kit/repo
-	url = git@192.168.1.148:repo.git
+	url = git@192.168.8.101:repo.git
 [submodule "sites/PHPMailer"]
 	path = sites/PHPMailer
 	url = https://github.com/Synchro/PHPMailer.git
