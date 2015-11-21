@@ -130,3 +130,6 @@
 [submodule "py/gunicorn"]
 	path = py/gunicorn
 	url = https://github.com/benoitc/gunicorn.git
+[submodule "tool-kit/web.server"]
+	path = tool-kit/web.server
+	url = git@www.cloris.com:web.server.git
