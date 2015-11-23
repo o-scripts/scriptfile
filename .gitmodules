@@ -133,3 +133,15 @@
 [submodule "tool-kit/web.server"]
 	path = tool-kit/web.server
 	url = git@www.cloris.com:web.server.git
+[submodule "py/http/HTTP"]
+	path = py/http/HTTP
+	url = https://github.com/FalconShock/HTTP.git
+[submodule "py/http/http_tutorial"]
+	path = py/http/http_tutorial
+	url = https://github.com/briandorsey/http_tutorial.git
+[submodule "py/http/simpleHttpServer"]
+	path = py/http/simpleHttpServer
+	url = https://github.com/ercchy/simpleHttpServer.git
+[submodule "py/http/SimpleHttpServer"]
+	path = py/http/SimpleHttpServer
+	url = git@github.com:GdZ/simpleHttpServer.git
