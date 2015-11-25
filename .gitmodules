@@ -145,3 +145,12 @@
 [submodule "py/http/SimpleHttpServer"]
 	path = py/http/SimpleHttpServer
 	url = git@github.com:GdZ/simpleHttpServer.git
+[submodule "py/http/aiohttp"]
+	path = py/http/aiohttp
+	url = https://github.com/KeepSafe/aiohttp.git
+[submodule "py/simplejson"]
+	path = py/simplejson
+	url = https://github.com/simplejson/simplejson.git
+[submodule "py/lib/simplejson"]
+	path = py/lib/simplejson
+	url = https://github.com/simplejson/simplejson.git
