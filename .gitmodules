@@ -154,3 +154,6 @@
 [submodule "py/lib/simplejson"]
 	path = py/lib/simplejson
 	url = https://github.com/simplejson/simplejson.git
+[submodule "software/remarkable"]
+	path = software/remarkable
+	url = https://github.com/jonschlinkert/remarkable.git
