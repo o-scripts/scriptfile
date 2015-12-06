@@ -154,3 +154,6 @@
 [submodule "software/remarkable"]
 	path = software/remarkable
 	url = https://github.com/jonschlinkert/remarkable.git
+[submodule "projects/hacker-scripts"]
+	path = projects/hacker-scripts
+	url = https://github.com/NARKOZ/hacker-scripts.git
