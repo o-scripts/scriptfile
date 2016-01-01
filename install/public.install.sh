@@ -42,4 +42,7 @@ ln -s ${MSHELL}/sh/goagent.sh ${MSHELL}/run/goagent
 
 ln -s ${MSHELL}/sh/worklist.sh ${MSHELL}/run/worklist
 
+# python -mjson.tool
+ln -s ${MSHELL}/sh/jsonshow.sh ${MSHELL}/run/jsonshow
+
 
