@@ -1,0 +1,22 @@
+=head2 Fri Jan 22 22:10:41 2016: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /home/self/develop/branch.git/scriptfile/tool-kit/git/bin/share/perl/5.18.2>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
