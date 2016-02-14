@@ -202,3 +202,12 @@
 [submodule "totur/getAwesomeness"]
 	path = totur/getAwesomeness
 	url = git@github.com:panzhangwang/getAwesomeness.git
+[submodule "totur/Android-Tips"]
+	path = totur/Android-Tips
+	url = git@github.com:tangqi92/Android-Tips.git
+[submodule "totur/awesome-kotlin"]
+	path = totur/awesome-kotlin
+	url = git@github.com:JavaBy/awesome-kotlin.git
+[submodule "tool-kit/apfel/syringe"]
+	path = tool-kit/apfel/syringe
+	url = git@github.com:Chronic-Dev/syringe.git
