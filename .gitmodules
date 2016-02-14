@@ -160,3 +160,45 @@
 [submodule "totur/awesome-c"]
 	path = totur/awesome-c
 	url = https://notabug.org/koz.ross/awesome-c.git
+[submodule "totur/awesome-c-cn"]
+	path = totur/awesome-c-cn
+	url = git@github.com:GdZ/awesome-c-cn.git
+[submodule "totur/awesome-cl"]
+	path = totur/awesome-cl
+	url = git@github.com:CodyReichert/awesome-cl.git
+[submodule "totur/awesome-gamedev"]
+	path = totur/awesome-gamedev
+	url = https://notabug.org/koz.ross/awesome-gamedev.git
+[submodule "totur/awesome-machine-learning"]
+	path = totur/awesome-machine-learning
+	url = git@github.com:josephmisiti/awesome-machine-learning.git
+[submodule "totur/awesome-python"]
+	path = totur/awesome-python
+	url = git@github.com:vinta/awesome-python.git
+[submodule "totur/awesome-scala"]
+	path = totur/awesome-scala
+	url = git@github.com:lauris/awesome-scala.git
+[submodule "totur/awesome-honeypots"]
+	path = totur/awesome-honeypots
+	url = git@github.com:paralax/awesome-honeypots.git
+[submodule "totur/awesome-aws"]
+	path = totur/awesome-aws
+	url = git@github.com:donnemartin/awesome-aws.git
+[submodule "totur/awesome-sqlalchemy"]
+	path = totur/awesome-sqlalchemy
+	url = git@github.com:dahlia/awesome-sqlalchemy.git
+[submodule "totur/awesome-react"]
+	path = totur/awesome-react
+	url = git@github.com:enaqx/awesome-react.git
+[submodule "totur/awesome-ctf"]
+	path = totur/awesome-ctf
+	url = git@github.com:apsdehal/awesome-ctf.git
+[submodule "totur/awesome-awesomeness-zh_CN"]
+	path = totur/awesome-awesomeness-zh_CN
+	url = git@github.com:justjavac/awesome-awesomeness-zh_CN.git
+[submodule "totur/free-programming-books-zh_CN"]
+	path = totur/free-programming-books-zh_CN
+	url = git@github.com:justjavac/free-programming-books-zh_CN.git
+[submodule "totur/getAwesomeness"]
+	path = totur/getAwesomeness
+	url = git@github.com:panzhangwang/getAwesomeness.git
