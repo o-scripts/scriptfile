@@ -157,3 +157,6 @@
 [submodule "projects/hacker-scripts"]
 	path = projects/hacker-scripts
 	url = https://github.com/NARKOZ/hacker-scripts.git
+[submodule "totur/awesome-c"]
+	path = totur/awesome-c
+	url = https://notabug.org/koz.ross/awesome-c.git
