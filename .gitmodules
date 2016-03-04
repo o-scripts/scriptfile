@@ -211,3 +211,24 @@
 [submodule "tool-kit/apfel/syringe"]
 	path = tool-kit/apfel/syringe
 	url = git@github.com:Chronic-Dev/syringe.git
+[submodule "libs/sublime-imefix/sublime-imethod-fix"]
+	path = libs/sublime-imefix/sublime-imethod-fix
+	url = git@github.com:whitequark/sublime-imethod-fix.git
+[submodule "libs/sublime-imefix/InputHelper"]
+	path = libs/sublime-imefix/InputHelper
+	url = git@github.com:xgenvn/InputHelper.git
+[submodule "libs/sublime-imefix/sublime-text-imfix"]
+	path = libs/sublime-imefix/sublime-text-imfix
+	url = git@github.com:lyfeyaj/sublime-text-imfix.git
+[submodule "libs/sublime-imefix/IMESupport"]
+	path = libs/sublime-imefix/IMESupport
+	url = git@github.com:chikatoike/IMESupport.git
+[submodule "libs/sublime-imefix/SublimeIBus"]
+	path = libs/sublime-imefix/SublimeIBus
+	url = git@github.com:oglops/SublimeIBus.git
+[submodule "libs/sublime-imefix/SublimeMozcInput"]
+	path = libs/sublime-imefix/SublimeMozcInput
+	url = git@github.com:yasuyuky/SublimeMozcInput.git
+[submodule "libs/sublime/Packages"]
+	path = libs/sublime/Packages
+	url = git@github.com:sublimehq/Packages.git
