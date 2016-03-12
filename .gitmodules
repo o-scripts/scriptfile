@@ -232,3 +232,12 @@
 [submodule "libs/sublime/Packages"]
 	path = libs/sublime/Packages
 	url = git@github.com:sublimehq/Packages.git
+[submodule "android/m75-MX4"]
+	path = android/m75-MX4
+	url = git@github.com:meizuosc/m75.git
+[submodule "android/m576-MX5pro"]
+	path = android/m576-MX5pro
+	url = git@github.com:meizuosc/m576.git
+[submodule "deepmind/AlphaGo"]
+	path = deepmind/AlphaGo
+	url = git@github.com:Rochester-NRT/AlphaGo.git
