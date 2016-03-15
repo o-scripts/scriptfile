@@ -8,9 +8,9 @@
 
 |  | Zeitraum | Fach | Title |
 | ---- | ---- | ---- | --- |
-| Univertät | xx.20xx-heute | Informatik | xx |
+| xx Univertät | xx.20xx-heute | Informatik | xx |
 | Sprachlernzentrum | xx.20xx-xx.20xx | Deutsch als Fremdsprache | Ausbildung der Sprache |
-| Universtät | xx.20xx-xx.20xx | Computer Science and Technology | xx |
+| xx Universtät | xx.20xx-xx.20xx | Computer Science and Technology | xx |
 
 ## Berufserfahrung
 
