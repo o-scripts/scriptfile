@@ -23,6 +23,7 @@ http://developer.android.com/sdk/index.html#Requirements
 - 1280 x 800 minimum screen resolution
 - Java Runtime Environment (JRE) 6
 - Java Development Kit (JDK) 7
+
 >On Mac OS, run Android Studio with Java Runtime Environment (JRE) 6 for optimized font rendering. You can then configure your project to use Java Development Kit (JDK) 6 or JDK 7.
 
 ### Linux
@@ -34,6 +35,7 @@ http://developer.android.com/sdk/index.html#Requirements
 - 1280 x 800 minimum screen resolution
 - Oracle® Java Development Kit (JDK) 7
 - 64-bit distribution capable of running 32-bit applications
+
 >Tested on Ubuntu® 14.04, Trusty Tahr (64-bit distribution capable of running 32-bit applications).
 
 
