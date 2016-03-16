@@ -12,6 +12,16 @@
 | Sprachlernzentrum | xx.20xx-xx.20xx | Deutsch als Fremdsprache | Ausbildung der Sprache |
 | xx Universtät | xx.20xx-xx.20xx | Computer Science and Technology | xx |
 
+## Technik
+
+- Android: Gallery, Video Player, Streaming Media, Sperrbildschirm
+- Erfahrung über LAMP¹
+- Monkeyrunner² und Monkey
+- Linux shell
+
+>1. LAMP: Linux\+Apache\+Mysql\+php
+>2. Monkeyrunner: Autotesten des Android
+
 ## Berufserfahrung
 
 | Arbeitgeber | Zeitraum | Jobtitel |
@@ -40,8 +50,9 @@
 
 | Projekt | Software-Umgebung | Aufgaben | Sprach der Entwicklung |
 | --- | --- | --- | --- |
-| Monkeyrunner Autotesten | Android, Python | Entwicklung und Pflege von Autotesten | Java, Python |
+| Monkeyrunner Autotesten | Android, Python, Linux | Entwicklung und Pflege von Autotesten | Java, Python, shell |
 | Lebenstest des Speicher | Android | Entwicklung und Pflege von apps | Java, C |
+| Autotesten der Modules | Android, Linux | Entwicklung und Pflege von webapps und Mobile apps | Java, PHP, Javascript |
 
 > Zeitraum: von xx.20xx bis xx.20xx
 
