@@ -250,3 +250,18 @@
 [submodule "minijob/LikeLaravel"]
 	path = minijob/LikeLaravel
 	url = https://github.com/maliang/LikeLaravel.git
+[submodule "translate/LCTT.github.io"]
+	path = translate/LCTT.github.io
+	url = https://github.com/LCTT/LCTT.github.io.git
+[submodule "translate/TranslateProject"]
+	path = translate/TranslateProject
+	url = https://github.com/LCTT/TranslateProject.git
+[submodule "translate/man-pages"]
+	path = translate/man-pages
+	url = https://github.com/LCTT/man-pages.git
+[submodule "translate/LFS-BOOK"]
+	path = translate/LFS-BOOK
+	url = https://github.com/LCTT/LFS-BOOK.git
+[submodule "translate/LFS-BOOK-7.7-systemd"]
+	path = translate/LFS-BOOK-7.7-systemd
+	url = https://github.com/LCTT/LFS-BOOK-7.7-systemd.git
