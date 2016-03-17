@@ -241,3 +241,12 @@
 [submodule "deepmind/AlphaGo"]
 	path = deepmind/AlphaGo
 	url = git@github.com:Rochester-NRT/AlphaGo.git
+[submodule "minijob/laravel-getting-started.wiki"]
+	path = minijob/laravel-getting-started.wiki
+	url = https://github.com/huanghua581/laravel-getting-started.wiki.git
+[submodule "minijob/laravel-getting-started"]
+	path = minijob/laravel-getting-started
+	url = https://github.com/huanghua581/laravel-getting-started.git
+[submodule "minijob/LikeLaravel"]
+	path = minijob/LikeLaravel
+	url = https://github.com/maliang/LikeLaravel.git
