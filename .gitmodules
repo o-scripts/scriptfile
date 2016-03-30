@@ -307,3 +307,9 @@
 [submodule "topics/loggerhead.vote_against_37"]
 	path = topics/loggerhead.vote_against_37
 	url = https://github.com/loggerhead/vote_against_37.git
+[submodule "android/repo"]
+	path = android/repo
+	url = https://github.com/FlymeOS/repo.git
+[submodule "libs/myrobotlab"]
+	path = libs/myrobotlab
+	url = https://github.com/MyRobotLab/repo.git
