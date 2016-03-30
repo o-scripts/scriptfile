@@ -301,3 +301,9 @@
 [submodule "spiders/webmagic-io.github.io"]
 	path = spiders/webmagic-io.github.io
 	url = https://github.com/webmagic-io/webmagic-io.github.io.git
+[submodule "topics/vote_against_37"]
+	path = topics/vote_against_37
+	url = https://github.com/ericls/vote_against_37.git
+[submodule "topics/loggerhead.vote_against_37"]
+	path = topics/loggerhead.vote_against_37
+	url = https://github.com/loggerhead/vote_against_37.git
