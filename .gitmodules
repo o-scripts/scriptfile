@@ -265,3 +265,39 @@
 [submodule "translate/LFS-BOOK-7.7-systemd"]
 	path = translate/LFS-BOOK-7.7-systemd
 	url = https://github.com/LCTT/LFS-BOOK-7.7-systemd.git
+[submodule "spiders/playfish"]
+	path = spiders/playfish
+	url = https://github.com/TrumanDu/playfish.git
+[submodule "spiders/crawlzilla"]
+	path = spiders/crawlzilla
+	url = https://github.com/shunfa/crawlzilla.git
+[submodule "spiders/heritrix3"]
+	path = spiders/heritrix3
+	url = https://github.com/internetarchive/heritrix3.git
+[submodule "spiders/jspider"]
+	path = spiders/jspider
+	url = https://github.com/jiangy/jspider.git
+[submodule "spiders/webmagic"]
+	path = spiders/webmagic
+	url = https://github.com/code4craft/webmagic.git
+[submodule "spiders/jobhunter"]
+	path = spiders/jobhunter
+	url = https://github.com/webmagic-io/jobhunter.git
+[submodule "technik/javascript"]
+	path = technik/javascript
+	url = https://github.com/shakusi2009/javascript.git
+[submodule "totur/the-way-to-go_ZH_CN"]
+	path = totur/the-way-to-go_ZH_CN
+	url = https://github.com/shakusi2009/the-way-to-go_ZH_CN.git
+[submodule "tool-kit/Hosts"]
+	path = tool-kit/Hosts
+	url = https://github.com/shakusi2009/Hosts.git
+[submodule "tool-kit/huhamhire-hosts"]
+	path = tool-kit/huhamhire-hosts
+	url = https://github.com/huhamhire/huhamhire-hosts.git
+[submodule "spiders/webmagic.docs"]
+	path = spiders/webmagic.docs
+	url = https://github.com/webmagic-io/docs.git
+[submodule "spiders/webmagic-io.github.io"]
+	path = spiders/webmagic-io.github.io
+	url = https://github.com/webmagic-io/webmagic-io.github.io.git
