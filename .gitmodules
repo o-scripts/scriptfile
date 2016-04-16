@@ -316,3 +316,6 @@
 [submodule "android/tools_repo"]
 	path = android/tools_repo
 	url = https://github.com/android/tools_repo.git
+[submodule "minijob/eqplay/source/BMI160_driver"]
+	path = minijob/eqplay/source/BMI160_driver
+	url = https://github.com/BoschSensortec/BMI160_driver.git
