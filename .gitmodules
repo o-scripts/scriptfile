@@ -316,3 +316,6 @@
 [submodule "android/tools_repo"]
 	path = android/tools_repo
 	url = https://github.com/android/tools_repo.git
+[submodule "minijob/magento/magento2"]
+	path = minijob/magento/magento2
+	url = https://github.com/magento/magento2
