@@ -322,3 +322,6 @@
 [submodule "minijob/eqplay/source/BMI160_driver"]
 	path = minijob/eqplay/source/BMI160_driver
 	url = https://github.com/BoschSensortec/BMI160_driver.git
+[submodule "ppm/grw"]
+	path = ppm/grw
+	url = https://github.com/wufeifei/grw.git
