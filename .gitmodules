@@ -325,3 +325,6 @@
 [submodule "ppm/grw"]
 	path = ppm/grw
 	url = https://github.com/wufeifei/grw.git
+[submodule "spiders/scrapy/dirbot"]
+	path = spiders/scrapy/dirbot
+	url = https://github.com/scrapy/dirbot.git
