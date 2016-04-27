@@ -331,3 +331,6 @@
 [submodule "spiders/scrapy/scrapy_doc_chs"]
 	path = spiders/scrapy/scrapy_doc_chs
 	url = https://github.com/marchtea/scrapy_doc_chs.git
+[submodule "spiders/scrapy/scrapy"]
+	path = spiders/scrapy/scrapy
+	url = https://github.com/scrapy/scrapy.git
