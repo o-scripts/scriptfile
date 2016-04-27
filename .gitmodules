@@ -334,3 +334,6 @@
 [submodule "spiders/scrapy/scrapy"]
 	path = spiders/scrapy/scrapy
 	url = https://github.com/scrapy/scrapy.git
+[submodule "minijob/laravel"]
+	path = minijob/laravel
+	url = https://github.com/laravel/laravel.git
