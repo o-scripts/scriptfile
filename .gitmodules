@@ -327,4 +327,13 @@
 	url = https://github.com/wufeifei/grw.git
 [submodule "spiders/scrapy/dirbot"]
 	path = spiders/scrapy/dirbot
-	url = https://github.com/scrapy/dirbot.git
+	url = https://github.com/GdZ/dirbot.git
+[submodule "spiders/scrapy/scrapy_doc_chs"]
+	path = spiders/scrapy/scrapy_doc_chs
+	url = https://github.com/marchtea/scrapy_doc_chs.git
+[submodule "spiders/scrapy/scrapy"]
+	path = spiders/scrapy/scrapy
+	url = https://github.com/scrapy/scrapy.git
+[submodule "minijob/laravel"]
+	path = minijob/laravel
+	url = https://github.com/laravel/laravel.git
