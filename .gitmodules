@@ -141,7 +141,7 @@
 	url = https://github.com/briandorsey/http_tutorial.git
 [submodule "py/http/simpleHttpServer"]
 	path = py/http/simpleHttpServer
-	url = https://github.com/ercchy/simpleHttpServer.git
+	url = git@github.com:GdZ/simpleHttpServer.git
 [submodule "py/http/aiohttp"]
 	path = py/http/aiohttp
 	url = https://github.com/KeepSafe/aiohttp.git
