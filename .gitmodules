@@ -337,3 +337,6 @@
 [submodule "minijob/laravel"]
 	path = minijob/laravel
 	url = https://github.com/laravel/laravel.git
+[submodule "projects/cheniubang_android"]
+	path = projects/cheniubang_android
+	url = https://gitcafe.com/chexingren/cheniubang_android.git
