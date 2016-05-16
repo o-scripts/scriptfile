@@ -340,3 +340,9 @@
 [submodule "projects/cheniubang_android"]
 	path = projects/cheniubang_android
 	url = https://gitcafe.com/chexingren/cheniubang_android.git
+[submodule "tool-kit/vim"]
+	path = tool-kit/vim
+	url = git@github.com:vim/vim.git
+[submodule "tool-kit/vim.plugin/Vundle.vim"]
+	path = tool-kit/vim.plugin/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
