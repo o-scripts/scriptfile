@@ -342,7 +342,10 @@
 	url = https://gitcafe.com/chexingren/cheniubang_android.git
 [submodule "tool-kit/vim"]
 	path = tool-kit/vim
-	url = git@github.com:vim/vim.git
-[submodule "tool-kit/vim.plugin/vim/bundle/vundle"]
-	path = tool-kit/vim.plugin/vim/bundle/vundle
+	url = https://github.com/vim/vim.git
+[submodule "tool-kit/vim.plugin/vundle"]
+	path = tool-kit/vim.plugin/vundle
 	url = https://github.com/gmarik/vundle.git
+[submodule "tool-kit/vim.plugin/vim_cfg"]
+	path = tool-kit/vim.plugin/vim_cfg
+	url = https://github.com/GdZ/vim_cfg.git
