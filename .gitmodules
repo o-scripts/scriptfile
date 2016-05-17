@@ -352,3 +352,6 @@
 [submodule "tool-kit/vim.plugin/spf13-vim"]
 	path = tool-kit/vim.plugin/spf13-vim
 	url = https://github.com/spf13/spf13-vim.git
+[submodule "tool-kit/sh.plugin/oh-my-zsh"]
+	path = tool-kit/sh.plugin/oh-my-zsh
+	url = https://github.com/GdZ/oh-my-zsh.git
