@@ -349,3 +349,6 @@
 [submodule "tool-kit/vim.plugin/vim_cfg"]
 	path = tool-kit/vim.plugin/vim_cfg
 	url = https://github.com/GdZ/vim_cfg.git
+[submodule "tool-kit/vim.plugin/spf13-vim"]
+	path = tool-kit/vim.plugin/spf13-vim
+	url = https://github.com/spf13/spf13-vim.git
