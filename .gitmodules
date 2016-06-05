@@ -358,3 +358,15 @@
 [submodule "web/gdz.github.io"]
 	path = web/gdz.github.io
 	url = git@github.com:GdZ/gdz.github.io.git
+[submodule "dev-kit/software/version/gitolite"]
+	path = dev-kit/software/version/gitolite
+	url = git://github.com/sitaramc/gitolite
+[submodule "dev-kit/yunPan/onedrive-d-old"]
+	path = dev-kit/yunPan/onedrive-d-old
+	url = https://github.com/xybu/onedrive-d-old.git
+[submodule "dev-kit/yunPan/grive"]
+	path = dev-kit/yunPan/grive
+	url = https://github.com/Grive/grive.git
+[submodule "dev-kit/yunPan/grive2"]
+	path = dev-kit/yunPan/grive2
+	url = https://github.com/vitalif/grive2.git
