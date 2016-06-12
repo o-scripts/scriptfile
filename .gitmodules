@@ -370,3 +370,6 @@
 [submodule "dev-kit/yunPan/grive2"]
 	path = dev-kit/yunPan/grive2
 	url = https://github.com/vitalif/grive2.git
+[submodule "media/netease/FeelUOwn"]
+	path = media/netease/FeelUOwn
+	url = https://github.com/GdZ/FeelUOwn.git
