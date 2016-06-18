@@ -373,3 +373,6 @@
 [submodule "media/netease/FeelUOwn"]
 	path = media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
+[submodule "minijob/eqplay/source/webService"]
+	path = minijob/eqplay/source/webService
+	url = git@git.oschina.net:mr.z/webService.git
