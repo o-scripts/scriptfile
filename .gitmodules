@@ -376,3 +376,6 @@
 [submodule "minijob/eqplay/source/webService"]
 	path = minijob/eqplay/source/webService
 	url = git@git.oschina.net:mr.z/webService.git
+[submodule "dev-kit/vpc/docker/docker-brew-ubuntu-core"]
+	path = dev-kit/vpc/docker/docker-brew-ubuntu-core
+	url = git@github.com:GdZ/docker-brew-ubuntu-core.git
