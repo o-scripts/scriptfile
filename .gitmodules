@@ -52,57 +52,6 @@
 [submodule "software/remarkable"]
 	path = software/remarkable
 	url = https://github.com/jonschlinkert/remarkable.git
-[submodule "totur/awesome-c"]
-	path = totur/awesome-c
-	url = https://notabug.org/koz.ross/awesome-c.git
-[submodule "totur/awesome-c-cn"]
-	path = totur/awesome-c-cn
-	url = git@github.com:GdZ/awesome-c-cn.git
-[submodule "totur/awesome-cl"]
-	path = totur/awesome-cl
-	url = git@github.com:CodyReichert/awesome-cl.git
-[submodule "totur/awesome-gamedev"]
-	path = totur/awesome-gamedev
-	url = https://notabug.org/koz.ross/awesome-gamedev.git
-[submodule "totur/awesome-machine-learning"]
-	path = totur/awesome-machine-learning
-	url = git@github.com:josephmisiti/awesome-machine-learning.git
-[submodule "totur/awesome-python"]
-	path = totur/awesome-python
-	url = git@github.com:vinta/awesome-python.git
-[submodule "totur/awesome-scala"]
-	path = totur/awesome-scala
-	url = git@github.com:lauris/awesome-scala.git
-[submodule "totur/awesome-honeypots"]
-	path = totur/awesome-honeypots
-	url = git@github.com:paralax/awesome-honeypots.git
-[submodule "totur/awesome-aws"]
-	path = totur/awesome-aws
-	url = git@github.com:donnemartin/awesome-aws.git
-[submodule "totur/awesome-sqlalchemy"]
-	path = totur/awesome-sqlalchemy
-	url = git@github.com:dahlia/awesome-sqlalchemy.git
-[submodule "totur/awesome-react"]
-	path = totur/awesome-react
-	url = git@github.com:enaqx/awesome-react.git
-[submodule "totur/awesome-ctf"]
-	path = totur/awesome-ctf
-	url = git@github.com:apsdehal/awesome-ctf.git
-[submodule "totur/awesome-awesomeness-zh_CN"]
-	path = totur/awesome-awesomeness-zh_CN
-	url = git@github.com:justjavac/awesome-awesomeness-zh_CN.git
-[submodule "totur/free-programming-books-zh_CN"]
-	path = totur/free-programming-books-zh_CN
-	url = git@github.com:justjavac/free-programming-books-zh_CN.git
-[submodule "totur/getAwesomeness"]
-	path = totur/getAwesomeness
-	url = git@github.com:panzhangwang/getAwesomeness.git
-[submodule "totur/Android-Tips"]
-	path = totur/Android-Tips
-	url = git@github.com:tangqi92/Android-Tips.git
-[submodule "totur/awesome-kotlin"]
-	path = totur/awesome-kotlin
-	url = git@github.com:JavaBy/awesome-kotlin.git
 [submodule "libs/sublime-imefix/sublime-imethod-fix"]
 	path = libs/sublime-imefix/sublime-imethod-fix
 	url = git@github.com:whitequark/sublime-imethod-fix.git
@@ -136,48 +85,6 @@
 [submodule "minijob/LikeLaravel"]
 	path = minijob/LikeLaravel
 	url = https://github.com/maliang/LikeLaravel.git
-[submodule "translate/LCTT.github.io"]
-	path = translate/LCTT.github.io
-	url = https://github.com/LCTT/LCTT.github.io.git
-[submodule "translate/TranslateProject"]
-	path = translate/TranslateProject
-	url = https://github.com/LCTT/TranslateProject.git
-[submodule "translate/man-pages"]
-	path = translate/man-pages
-	url = https://github.com/LCTT/man-pages.git
-[submodule "translate/LFS-BOOK"]
-	path = translate/LFS-BOOK
-	url = https://github.com/LCTT/LFS-BOOK.git
-[submodule "translate/LFS-BOOK-7.7-systemd"]
-	path = translate/LFS-BOOK-7.7-systemd
-	url = https://github.com/LCTT/LFS-BOOK-7.7-systemd.git
-[submodule "spiders/playfish"]
-	path = spiders/playfish
-	url = https://github.com/TrumanDu/playfish.git
-[submodule "spiders/crawlzilla"]
-	path = spiders/crawlzilla
-	url = https://github.com/shunfa/crawlzilla.git
-[submodule "spiders/heritrix3"]
-	path = spiders/heritrix3
-	url = https://github.com/internetarchive/heritrix3.git
-[submodule "spiders/jspider"]
-	path = spiders/jspider
-	url = https://github.com/jiangy/jspider.git
-[submodule "spiders/webmagic"]
-	path = spiders/webmagic
-	url = https://github.com/code4craft/webmagic.git
-[submodule "spiders/jobhunter"]
-	path = spiders/jobhunter
-	url = https://github.com/webmagic-io/jobhunter.git
-[submodule "totur/the-way-to-go_ZH_CN"]
-	path = totur/the-way-to-go_ZH_CN
-	url = https://github.com/shakusi2009/the-way-to-go_ZH_CN.git
-[submodule "spiders/webmagic.docs"]
-	path = spiders/webmagic.docs
-	url = https://github.com/webmagic-io/docs.git
-[submodule "spiders/webmagic-io.github.io"]
-	path = spiders/webmagic-io.github.io
-	url = https://github.com/webmagic-io/webmagic-io.github.io.git
 [submodule "topics/vote_against_37"]
 	path = topics/vote_against_37
 	url = https://github.com/ericls/vote_against_37.git
@@ -196,15 +103,6 @@
 [submodule "ppm/grw"]
 	path = ppm/grw
 	url = https://github.com/wufeifei/grw.git
-[submodule "spiders/scrapy/dirbot"]
-	path = spiders/scrapy/dirbot
-	url = https://github.com/GdZ/dirbot.git
-[submodule "spiders/scrapy/scrapy_doc_chs"]
-	path = spiders/scrapy/scrapy_doc_chs
-	url = https://github.com/marchtea/scrapy_doc_chs.git
-[submodule "spiders/scrapy/scrapy"]
-	path = spiders/scrapy/scrapy
-	url = https://github.com/scrapy/scrapy.git
 [submodule "minijob/laravel"]
 	path = minijob/laravel
 	url = https://github.com/laravel/laravel.git
@@ -226,27 +124,12 @@
 [submodule "web/gdz.github.io"]
 	path = web/gdz.github.io
 	url = git@github.com:GdZ/gdz.github.io.git
-[submodule "dev-kit/software/version/gitolite"]
-	path = dev-kit/software/version/gitolite
-	url = git://github.com/sitaramc/gitolite
-[submodule "dev-kit/yunPan/onedrive-d-old"]
-	path = dev-kit/yunPan/onedrive-d-old
-	url = https://github.com/xybu/onedrive-d-old.git
-[submodule "dev-kit/yunPan/grive"]
-	path = dev-kit/yunPan/grive
-	url = https://github.com/Grive/grive.git
-[submodule "dev-kit/yunPan/grive2"]
-	path = dev-kit/yunPan/grive2
-	url = https://github.com/vitalif/grive2.git
 [submodule "media/netease/FeelUOwn"]
 	path = media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
 [submodule "minijob/eqplay/source/webService"]
 	path = minijob/eqplay/source/webService
 	url = git@git.oschina.net:mr.z/webService.git
-[submodule "dev-kit/vpc/docker/docker-brew-ubuntu-core"]
-	path = dev-kit/vpc/docker/docker-brew-ubuntu-core
-	url = git@github.com:GdZ/docker-brew-ubuntu-core.git
 [submodule "minijob/eqplay/source/webService.wiki"]
 	path = minijob/eqplay/source/webService.wiki
 	url = http://git.oschina.net/mr.z/webService.wiki.git
