@@ -34,9 +34,6 @@
 [submodule "tool-kit/remote-desktop-clients"]
 	path = tool-kit/remote-desktop-clients
 	url = https://github.com/iiordanov/remote-desktop-clients.git
-[submodule "tool-kit/repo"]
-	path = tool-kit/repo
-	url = git@www.cloris.com:repo.git
 [submodule "sites/PHPMailer"]
 	path = sites/PHPMailer
 	url = https://github.com/Synchro/PHPMailer.git
@@ -49,9 +46,6 @@
 [submodule "tool-kit/solarized"]
 	path = tool-kit/solarized
 	url = https://github.com/altercation/solarized.git
-[submodule "tool-kit/git"]
-	path = tool-kit/git
-	url = https://github.com/git/git
 [submodule "tool-kit/openocd"]
 	path = tool-kit/openocd
 	url = https://github.com/ntfreak/openocd.git
@@ -130,9 +124,6 @@
 [submodule "totur/awesome-kotlin"]
 	path = totur/awesome-kotlin
 	url = git@github.com:JavaBy/awesome-kotlin.git
-[submodule "tool-kit/apfel/syringe"]
-	path = tool-kit/apfel/syringe
-	url = git@github.com:Chronic-Dev/syringe.git
 [submodule "libs/sublime-imefix/sublime-imethod-fix"]
 	path = libs/sublime-imefix/sublime-imethod-fix
 	url = git@github.com:whitequark/sublime-imethod-fix.git
