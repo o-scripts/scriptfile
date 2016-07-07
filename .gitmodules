@@ -28,12 +28,6 @@
 [submodule "tool-kit/host.def"]
 	path = tool-kit/host.def
 	url = git@github.com:GdZ/google-hosts.git
-[submodule "projects/Android-Universal-Image-Loader"]
-	path = projects/Android-Universal-Image-Loader
-	url = git@github.com:nostra13/Android-Universal-Image-Loader.git
-[submodule "projects/image.cached/picasso"]
-	path = projects/image.cached/picasso
-	url = git@github.com:square/picasso.git
 [submodule "mobile/osmocom-bb"]
 	path = mobile/osmocom-bb
 	url = git@github.com:korczis/osmocom-bb.git
@@ -55,84 +49,15 @@
 [submodule "tool-kit/solarized"]
 	path = tool-kit/solarized
 	url = https://github.com/altercation/solarized.git
-[submodule "projects/gfw/openwrt-gfw"]
-	path = projects/gfw/openwrt-gfw
-	url = https://github.com/hackgfw/openwrt-gfw.git
-[submodule "projects/gfw/openwrt-fanqiang"]
-	path = projects/gfw/openwrt-fanqiang
-	url = https://github.com/softwaredownload/openwrt-fanqiang.git
-[submodule "projects/openwrt"]
-	path = projects/openwrt
-	url = https://github.com/openwrt-mirror/openwrt.git
 [submodule "tool-kit/git"]
 	path = tool-kit/git
 	url = https://github.com/git/git
 [submodule "tool-kit/openocd"]
 	path = tool-kit/openocd
 	url = https://github.com/ntfreak/openocd.git
-[submodule "projects/svg-android"]
-	path = projects/svg-android
-	url = git://github.com/GdZ/svg-android.git
-[submodule "projects/12306_ticket_helper"]
-	path = projects/12306_ticket_helper
-	url = git@github.com:GdZ/12306_ticket_helper.git
-[submodule "projects/TECP"]
-	path = projects/TECP
-	url = git@github.com:GdZ/TECP.git
-[submodule "projects/afinal"]
-	path = projects/afinal
-	url = git@github.com:yangfuhai/afinal.git
-[submodule "projects/node"]
-	path = projects/node
-	url = git@github.com:joyent/node.git
-[submodule "projects/NodeBeginngerBook"]
-	path = projects/NodeBeginngerBook
-	url = git@github.com:GdZ/NodeBeginngerBook.git
-[submodule "projects/httpserver"]
-	path = projects/httpserver
-	url = git@github.com:youngj/httpserver.git
-[submodule "projects/AutoTest"]
-	path = projects/AutoTest
-	url = git@github.com:GdZ/AutoTest.git
-[submodule "projects/8021xclient-for-windows"]
-	path = projects/8021xclient-for-windows
-	url = git@github.com:tengattack/8021xclient-for-windows.git
-[submodule "projects/jquery-ui"]
-	path = projects/jquery-ui
-	url = git@github.com:GdZ/jquery-ui.git
-[submodule "projects/init_android_env"]
-	path = projects/init_android_env
-	url = git@github.com:GdZ/init_android_env.git
-[submodule "projects/csshake"]
-	path = projects/csshake
-	url = git@github.com:GdZ/csshake.git
-[submodule "projects/kHTTPd-Mini"]
-	path = projects/kHTTPd-Mini
-	url = git@github.com:K-Shadow/kHTTPd-Mini.git
-[submodule "projects/ubuntu-tweak"]
-	path = projects/ubuntu-tweak
-	url = git@github.com:GdZ/ubuntu-tweak.git
-[submodule "projects/njit8021xclient"]
-	path = projects/njit8021xclient
-	url = git@github.com:GdZ/njit8021xclient.git
-[submodule "projects/BassDiffusion"]
-	path = projects/BassDiffusion
-	url = git@github.com:GdZ/BassDiffusion.git
-[submodule "projects/2048"]
-	path = projects/2048
-	url = git@github.com:GdZ/2048.git
-[submodule "projects/jsonTest"]
-	path = projects/jsonTest
-	url = git@github.com:GdZ/jsonTest.git
-[submodule "projects/TranslateProject"]
-	path = projects/TranslateProject
-	url = git@github.com:LCTT/TranslateProject.git
 [submodule "py/gunicorn"]
 	path = py/gunicorn
 	url = https://github.com/benoitc/gunicorn.git
-[submodule "tool-kit/web.server"]
-	path = tool-kit/web.server
-	url = git@www.cloris.com:web.server.git
 [submodule "py/http/HTTP"]
 	path = py/http/HTTP
 	url = https://github.com/FalconShock/HTTP.git
@@ -154,9 +79,6 @@
 [submodule "software/remarkable"]
 	path = software/remarkable
 	url = https://github.com/jonschlinkert/remarkable.git
-[submodule "projects/hacker-scripts"]
-	path = projects/hacker-scripts
-	url = https://github.com/NARKOZ/hacker-scripts.git
 [submodule "totur/awesome-c"]
 	path = totur/awesome-c
 	url = https://notabug.org/koz.ross/awesome-c.git
@@ -232,12 +154,6 @@
 [submodule "libs/sublime/Packages"]
 	path = libs/sublime/Packages
 	url = git@github.com:sublimehq/Packages.git
-[submodule "android/m75-MX4"]
-	path = android/m75-MX4
-	url = git@github.com:meizuosc/m75.git
-[submodule "android/m576-MX5pro"]
-	path = android/m576-MX5pro
-	url = git@github.com:meizuosc/m576.git
 [submodule "deepmind/AlphaGo"]
 	path = deepmind/AlphaGo
 	url = git@github.com:Rochester-NRT/AlphaGo.git
@@ -307,15 +223,9 @@
 [submodule "topics/loggerhead.vote_against_37"]
 	path = topics/loggerhead.vote_against_37
 	url = https://github.com/loggerhead/vote_against_37.git
-[submodule "android/repo"]
-	path = android/repo
-	url = https://github.com/FlymeOS/repo.git
 [submodule "libs/myrobotlab"]
 	path = libs/myrobotlab
 	url = https://github.com/MyRobotLab/repo.git
-[submodule "android/tools_repo"]
-	path = android/tools_repo
-	url = https://github.com/android/tools_repo.git
 [submodule "minijob/magento/magento2"]
 	path = minijob/magento/magento2
 	url = https://github.com/magento/magento2
@@ -337,9 +247,6 @@
 [submodule "minijob/laravel"]
 	path = minijob/laravel
 	url = https://github.com/laravel/laravel.git
-[submodule "projects/cheniubang_android"]
-	path = projects/cheniubang_android
-	url = https://gitcafe.com/chexingren/cheniubang_android.git
 [submodule "tool-kit/vim"]
 	path = tool-kit/vim
 	url = https://github.com/vim/vim.git
