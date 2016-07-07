@@ -19,36 +19,12 @@
 [submodule "config"]
 	path = config
 	url = git@www.cloris.com:config.git
-[submodule "mobile/osmocom-bb"]
-	path = mobile/osmocom-bb
-	url = git@github.com:korczis/osmocom-bb.git
-[submodule "sites/PHPMailer"]
-	path = sites/PHPMailer
-	url = https://github.com/Synchro/PHPMailer.git
 [submodule "software/homebrew"]
 	path = software/homebrew
 	url = https://github.com/mxcl/homebrew.git
 [submodule "py/gunicorn"]
 	path = py/gunicorn
 	url = https://github.com/benoitc/gunicorn.git
-[submodule "py/http/HTTP"]
-	path = py/http/HTTP
-	url = https://github.com/FalconShock/HTTP.git
-[submodule "py/http/http_tutorial"]
-	path = py/http/http_tutorial
-	url = https://github.com/briandorsey/http_tutorial.git
-[submodule "py/http/simpleHttpServer"]
-	path = py/http/simpleHttpServer
-	url = git@github.com:GdZ/simpleHttpServer.git
-[submodule "py/http/aiohttp"]
-	path = py/http/aiohttp
-	url = https://github.com/KeepSafe/aiohttp.git
-[submodule "py/simplejson"]
-	path = py/simplejson
-	url = https://github.com/simplejson/simplejson.git
-[submodule "py/lib/simplejson"]
-	path = py/lib/simplejson
-	url = https://github.com/simplejson/simplejson.git
 [submodule "software/remarkable"]
 	path = software/remarkable
 	url = https://github.com/jonschlinkert/remarkable.git
@@ -73,39 +49,12 @@
 [submodule "libs/sublime/Packages"]
 	path = libs/sublime/Packages
 	url = git@github.com:sublimehq/Packages.git
-[submodule "deepmind/AlphaGo"]
-	path = deepmind/AlphaGo
-	url = git@github.com:Rochester-NRT/AlphaGo.git
-[submodule "minijob/laravel-getting-started.wiki"]
-	path = minijob/laravel-getting-started.wiki
-	url = https://github.com/huanghua581/laravel-getting-started.wiki.git
-[submodule "minijob/laravel-getting-started"]
-	path = minijob/laravel-getting-started
-	url = https://github.com/huanghua581/laravel-getting-started.git
-[submodule "minijob/LikeLaravel"]
-	path = minijob/LikeLaravel
-	url = https://github.com/maliang/LikeLaravel.git
-[submodule "topics/vote_against_37"]
-	path = topics/vote_against_37
-	url = https://github.com/ericls/vote_against_37.git
-[submodule "topics/loggerhead.vote_against_37"]
-	path = topics/loggerhead.vote_against_37
-	url = https://github.com/loggerhead/vote_against_37.git
-[submodule "libs/myrobotlab"]
-	path = libs/myrobotlab
-	url = https://github.com/MyRobotLab/repo.git
 [submodule "minijob/magento/magento2"]
 	path = minijob/magento/magento2
 	url = https://github.com/magento/magento2
 [submodule "minijob/eqplay/source/BMI160_driver"]
 	path = minijob/eqplay/source/BMI160_driver
 	url = https://github.com/BoschSensortec/BMI160_driver.git
-[submodule "ppm/grw"]
-	path = ppm/grw
-	url = https://github.com/wufeifei/grw.git
-[submodule "minijob/laravel"]
-	path = minijob/laravel
-	url = https://github.com/laravel/laravel.git
 [submodule "tool-kit/vim"]
 	path = tool-kit/vim
 	url = https://github.com/vim/vim.git
@@ -121,12 +70,6 @@
 [submodule "tool-kit/sh.plugin/oh-my-zsh"]
 	path = tool-kit/sh.plugin/oh-my-zsh
 	url = https://github.com/GdZ/oh-my-zsh.git
-[submodule "web/gdz.github.io"]
-	path = web/gdz.github.io
-	url = git@github.com:GdZ/gdz.github.io.git
-[submodule "media/netease/FeelUOwn"]
-	path = media/netease/FeelUOwn
-	url = https://github.com/GdZ/FeelUOwn.git
 [submodule "minijob/eqplay/source/webService"]
 	path = minijob/eqplay/source/webService
 	url = git@git.oschina.net:mr.z/webService.git
