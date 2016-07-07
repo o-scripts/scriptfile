@@ -4,9 +4,6 @@
 [submodule "tool-kit/ext4-utils"]
 	path = tool-kit/ext4-utils
 	url = https://github.com/YuLaw/ext4-utils.git
-[submodule "tool-kit/init_android_env"]
-	path = tool-kit/init_android_env
-	url = git@github.com:GdZ/init_android_env.git
 [submodule "py/monkeyrunner"]
 	path = py/monkeyrunner
 	url = git@github.com:GdZ/AutoTest.git
@@ -16,39 +13,21 @@
 [submodule "tool-kit/excel-writer-xlsx"]
 	path = tool-kit/perl-modules/excel-writer-xlsx
 	url = https://github.com/jmcnamara/excel-writer-xlsx.git
-[submodule "IDE/go"]
-	path = IDE/go
-	url = https://github.com/tav/go.git
 [submodule "docs"]
 	path = docs
 	url = git@code.csdn.net:zgd1348833/docs.git
 [submodule "config"]
 	path = config
 	url = git@www.cloris.com:config.git
-[submodule "tool-kit/host.def"]
-	path = tool-kit/host.def
-	url = git@github.com:GdZ/google-hosts.git
 [submodule "mobile/osmocom-bb"]
 	path = mobile/osmocom-bb
 	url = git@github.com:korczis/osmocom-bb.git
-[submodule "tool-kit/remote-desktop-clients"]
-	path = tool-kit/remote-desktop-clients
-	url = https://github.com/iiordanov/remote-desktop-clients.git
 [submodule "sites/PHPMailer"]
 	path = sites/PHPMailer
 	url = https://github.com/Synchro/PHPMailer.git
-[submodule "tool-kit/MemTest"]
-	path = tool-kit/MemTest
-	url = git@www.cloris.com:MemTest.git
 [submodule "software/homebrew"]
 	path = software/homebrew
 	url = https://github.com/mxcl/homebrew.git
-[submodule "tool-kit/solarized"]
-	path = tool-kit/solarized
-	url = https://github.com/altercation/solarized.git
-[submodule "tool-kit/openocd"]
-	path = tool-kit/openocd
-	url = https://github.com/ntfreak/openocd.git
 [submodule "py/gunicorn"]
 	path = py/gunicorn
 	url = https://github.com/benoitc/gunicorn.git
@@ -190,18 +169,9 @@
 [submodule "spiders/jobhunter"]
 	path = spiders/jobhunter
 	url = https://github.com/webmagic-io/jobhunter.git
-[submodule "technik/javascript"]
-	path = technik/javascript
-	url = https://github.com/shakusi2009/javascript.git
 [submodule "totur/the-way-to-go_ZH_CN"]
 	path = totur/the-way-to-go_ZH_CN
 	url = https://github.com/shakusi2009/the-way-to-go_ZH_CN.git
-[submodule "tool-kit/Hosts"]
-	path = tool-kit/Hosts
-	url = https://github.com/shakusi2009/Hosts.git
-[submodule "tool-kit/huhamhire-hosts"]
-	path = tool-kit/huhamhire-hosts
-	url = https://github.com/huhamhire/huhamhire-hosts.git
 [submodule "spiders/webmagic.docs"]
 	path = spiders/webmagic.docs
 	url = https://github.com/webmagic-io/docs.git
