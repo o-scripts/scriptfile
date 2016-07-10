@@ -4,30 +4,3 @@
 [submodule "tool-kit/ext4-utils"]
 	path = tool-kit/ext4-utils
 	url = https://github.com/YuLaw/ext4-utils.git
-[submodule "tool-kit/excel-writer-xlsx"]
-	path = tool-kit/perl-modules/excel-writer-xlsx
-	url = https://github.com/jmcnamara/excel-writer-xlsx.git
-[submodule "software/homebrew"]
-	path = software/homebrew
-	url = https://github.com/mxcl/homebrew.git
-[submodule "py/gunicorn"]
-	path = py/gunicorn
-	url = https://github.com/benoitc/gunicorn.git
-[submodule "software/remarkable"]
-	path = software/remarkable
-	url = https://github.com/jonschlinkert/remarkable.git
-[submodule "tool-kit/vim"]
-	path = tool-kit/vim
-	url = https://github.com/vim/vim.git
-[submodule "tool-kit/vim.plugin/vundle"]
-	path = tool-kit/vim.plugin/vundle
-	url = https://github.com/gmarik/vundle.git
-[submodule "tool-kit/vim.plugin/vim_cfg"]
-	path = tool-kit/vim.plugin/vim_cfg
-	url = https://github.com/GdZ/vim_cfg.git
-[submodule "tool-kit/vim.plugin/spf13-vim"]
-	path = tool-kit/vim.plugin/spf13-vim
-	url = https://github.com/spf13/spf13-vim.git
-[submodule "tool-kit/sh.plugin/oh-my-zsh"]
-	path = tool-kit/sh.plugin/oh-my-zsh
-	url = https://github.com/GdZ/oh-my-zsh.git
