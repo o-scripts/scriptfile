@@ -7,9 +7,6 @@
 [submodule "tool-kit/excel-writer-xlsx"]
 	path = tool-kit/perl-modules/excel-writer-xlsx
 	url = https://github.com/jmcnamara/excel-writer-xlsx.git
-[submodule "docs"]
-	path = docs
-	url = git@code.csdn.net:zgd1348833/docs.git
 [submodule "software/homebrew"]
 	path = software/homebrew
 	url = https://github.com/mxcl/homebrew.git
