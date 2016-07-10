@@ -4,12 +4,6 @@
 [submodule "tool-kit/ext4-utils"]
 	path = tool-kit/ext4-utils
 	url = https://github.com/YuLaw/ext4-utils.git
-[submodule "py/monkeyrunner"]
-	path = py/monkeyrunner
-	url = git@github.com:GdZ/AutoTest.git
-[submodule "eDict"]
-	path = eDict
-	url = git@github.com:GdZ/eDict.git
 [submodule "tool-kit/excel-writer-xlsx"]
 	path = tool-kit/perl-modules/excel-writer-xlsx
 	url = https://github.com/jmcnamara/excel-writer-xlsx.git
@@ -25,27 +19,6 @@
 [submodule "software/remarkable"]
 	path = software/remarkable
 	url = https://github.com/jonschlinkert/remarkable.git
-[submodule "libs/sublime-imefix/sublime-imethod-fix"]
-	path = libs/sublime-imefix/sublime-imethod-fix
-	url = git@github.com:whitequark/sublime-imethod-fix.git
-[submodule "libs/sublime-imefix/InputHelper"]
-	path = libs/sublime-imefix/InputHelper
-	url = git@github.com:xgenvn/InputHelper.git
-[submodule "libs/sublime-imefix/sublime-text-imfix"]
-	path = libs/sublime-imefix/sublime-text-imfix
-	url = git@github.com:lyfeyaj/sublime-text-imfix.git
-[submodule "libs/sublime-imefix/IMESupport"]
-	path = libs/sublime-imefix/IMESupport
-	url = git@github.com:chikatoike/IMESupport.git
-[submodule "libs/sublime-imefix/SublimeIBus"]
-	path = libs/sublime-imefix/SublimeIBus
-	url = git@github.com:oglops/SublimeIBus.git
-[submodule "libs/sublime-imefix/SublimeMozcInput"]
-	path = libs/sublime-imefix/SublimeMozcInput
-	url = git@github.com:yasuyuky/SublimeMozcInput.git
-[submodule "libs/sublime/Packages"]
-	path = libs/sublime/Packages
-	url = git@github.com:sublimehq/Packages.git
 [submodule "tool-kit/vim"]
 	path = tool-kit/vim
 	url = https://github.com/vim/vim.git
