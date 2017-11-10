@@ -26,3 +26,5 @@ sh/gat-linux-x86_64-3/
 
 # This is a test folder, no need to track status
 ssh-keygen/
+
+*.DS_Store
